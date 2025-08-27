@@ -17,7 +17,7 @@ python main.py
 
 The recording will be saved in the project folder.
 
-Dependencies
+Dependencies:
 
 pyautogui
 
